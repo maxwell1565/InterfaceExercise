@@ -43,10 +43,6 @@ namespace InterfaceExercise
             var chevy = new Truck();
             var toyota = new SUV();
 
-            var vehiclesList = new List<IVehicle>() { ford, chevy, toyota };
-
-
-
             //Option for displaying values: 
             //Create a stubbed out method called DisplayDetails in your IVehicle interface.
             //Implement the stubbed out method in the derived classes.
